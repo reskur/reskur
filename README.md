@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Reski Kurniawan
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking for opportunity to work in Data Science and Machine Learning field
+- 👀 I’m interested in Data and Machine Learning
+- 💞️ I’m looking for opportunity to work in Data Analysis and Data Science field
 - 📫 How to reach me reskur.r@gmail.com
 
 <!---
